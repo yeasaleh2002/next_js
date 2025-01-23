@@ -1,0 +1,84 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Nike Air Max 90",
+      "brand": "Nike",
+      "color": "White/Grey",
+      "size": "10",
+      "price": 120.0
+    },
+    {
+      "id": 2,
+      "name": "Adidas Yeezy Boost 350",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "11",
+      "price": 250.0
+    },
+    {
+      "id": 3,
+      "name": "Converse Chuck Taylor All Stars",
+      "brand": "Converse",
+      "color": "Black",
+      "size": "9",
+      "price": 55.0
+    },
+    {
+      "id": 4,
+      "name": "Vans Old Skool",
+      "brand": "Vans",
+      "color": "Red",
+      "size": "8",
+      "price": 60.0
+    },
+    {
+      "id": 5,
+      "name": "New Balance 574",
+      "brand": "New Balance",
+      "color": "Grey",
+      "size": "10.5",
+      "price": 80.0
+    },
+    {
+      "id": 6,
+      "name": "Jordan 1 Retro High",
+      "brand": "Jordan",
+      "color": "Chicago",
+      "size": "12",
+      "price": 180.0
+    },
+    {
+      "id": 7,
+      "name": "Puma Suede Classic",
+      "brand": "Puma",
+      "color": "Green",
+      "size": "9.5",
+      "price": 70.0
+    },
+    {
+      "id": 8,
+      "name": "Reebok Classic Leather",
+      "brand": "Reebok",
+      "color": "White",
+      "size": "11",
+      "price": 65.0
+    },
+    {
+      "id": 9,
+      "name": "Dr. Martens 1460",
+      "brand": "Dr. Martens",
+      "color": "Black",
+      "size": "8",
+      "price": 140.0
+    },
+    {
+      "id": 10,
+      "name": "Timberland 6-Inch Boot",
+      "brand": "Timberland",
+      "color": "Wheat",
+      "size": "10",
+      "price": 170.0
+    }
+  ]
+}
